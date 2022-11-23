@@ -165,7 +165,7 @@
     <Compile Include="Assets\RealisticCarControllerV3\Scripts\RCC_InputActions.cs" />
     <Compile Include="Assets\RealisticCarControllerV3\Scripts\RCC_Records.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
-    <Compile Include="Assets\CarProperties.cs" />
+    <Compile Include="Assets\Resources\CarProperties.cs" />
     <Compile Include="Assets\Barrier Pack\Scripts\PostEffectsBase.cs" />
     <Compile Include="Assets\RealisticCarControllerV3\Scripts\RCC_AICarController.cs" />
     <Compile Include="Assets\RealisticCarControllerV3\Scripts\RCC_Spawner.cs" />
@@ -220,6 +220,7 @@
     <Compile Include="Assets\LeanTween\Examples\Scripts\Following.cs" />
     <Compile Include="Assets\RealisticCarControllerV3\Scripts\RCC_Mirror.cs" />
     <Compile Include="Assets\RealisticCarControllerV3\Scripts\RCC_CarControllerV3.cs" />
+    <Compile Include="Assets\Resources\LevelProperties.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\RealisticCarControllerV3\Addon Packages\For ProFlares\Readme!.txt" />
